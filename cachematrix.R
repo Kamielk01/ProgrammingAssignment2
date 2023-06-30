@@ -45,3 +45,6 @@ cacheSolve <- function(x, ...) {
 	x$setInv(i)
 	i
 }
+
+## I took inspiration from the example shown in the assignment on how to
+## cache the mean of a vector
